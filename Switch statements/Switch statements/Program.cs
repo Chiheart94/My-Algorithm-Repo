@@ -6,7 +6,7 @@ namespace switchDemo
     {
         static void Main(string[] args)
         {
-            int daysOfTheWeek = 1;
+            int daysOfTheWeek = 5;
 
             switch(daysOfTheWeek)
             {
@@ -22,7 +22,7 @@ namespace switchDemo
                     case 4:
                     Console.WriteLine("wednesday");
                     break;
-                    case 10:
+                    case 5:
                     Console.WriteLine("thursday");
                     break;
                     case 6:
