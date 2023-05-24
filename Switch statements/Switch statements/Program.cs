@@ -6,29 +6,29 @@ namespace switchDemo
     {
         static void Main(string[] args)
         {
-            int daysOfTheWeek = 5;
+            char daysOfTheWeek = 'D';
 
             switch(daysOfTheWeek)
             {
-                case 1:
+                case 'A':
                     Console.WriteLine("chichi");
                     break;
-                    case 2:
+                    case 'B':
                     Console.WriteLine("monday");
                     break;
-                    case 3:
+                    case 'C':
                     Console.WriteLine("tuesday");
                     break;
-                    case 4:
+                    case 'D':
                     Console.WriteLine("wednesday");
                     break;
-                    case 5:
+                    case 'E':
                     Console.WriteLine("thursday");
                     break;
-                    case 6:
+                    case 'F':
                     Console.WriteLine("friday");
                     break;
-                    case 7:
+                    case 'G':
                     Console.WriteLine("saturday");
                     break;
 
