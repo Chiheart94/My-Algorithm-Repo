@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\bin\Debug\Generic Classes.exe.config
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\bin\Debug\Generic Classes.exe
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\bin\Debug\Generic Classes.pdb
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\obj\Debug\Generic Classes.exe
+C:\Users\Decagon\source\repos\Generic Classes\Generic Classes\obj\Debug\Generic Classes.pdb
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\bin\Debug\Generic Classes.exe.config
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\bin\Debug\Generic Classes.exe
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\bin\Debug\Generic Classes.pdb
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\obj\Debug\Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\obj\Debug\Generic Classes.exe
+C:\Users\Decagon\Desktop\Week 2- task\week-2-Chiheart94\Generic Classes\Generic Classes\obj\Debug\Generic Classes.pdb

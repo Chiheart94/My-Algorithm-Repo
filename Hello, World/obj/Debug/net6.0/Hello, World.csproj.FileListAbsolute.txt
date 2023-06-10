@@ -13,3 +13,11 @@ C:\Users\Decagon\source\repos\Hello, World\obj\Debug\net6.0\refint\Hello, World.
 C:\Users\Decagon\source\repos\Hello, World\obj\Debug\net6.0\Hello, World.pdb
 C:\Users\Decagon\source\repos\Hello, World\obj\Debug\net6.0\Hello, World.genruntimeconfig.cache
 C:\Users\Decagon\source\repos\Hello, World\obj\Debug\net6.0\ref\Hello, World.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\refint\Hello, World.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\Hello, World\obj\Debug\net6.0\Hello, World.pdb

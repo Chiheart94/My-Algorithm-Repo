@@ -1,0 +1,16 @@
+C:\Users\Decagon\source\repos\Bank App\Bank App\bin\Debug\Bank App.exe.config
+C:\Users\Decagon\source\repos\Bank App\Bank App\bin\Debug\Bank App.exe
+C:\Users\Decagon\source\repos\Bank App\Bank App\bin\Debug\Bank App.pdb
+C:\Users\Decagon\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\source\repos\Bank App\Bank App\obj\Debug\Bank App.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Bank App\Bank App\obj\Debug\Bank App.exe
+C:\Users\Decagon\source\repos\Bank App\Bank App\obj\Debug\Bank App.pdb
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\bin\Debug\Bank App.exe.config
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\bin\Debug\Bank App.exe
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\bin\Debug\Bank App.pdb
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\obj\Debug\Bank App.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\obj\Debug\Bank App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\obj\Debug\Bank App.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\obj\Debug\Bank App.exe
+C:\Users\Decagon\Desktop\week3 repo\week-3-Chiheart94\Bank App\Bank App\obj\Debug\Bank App.pdb
