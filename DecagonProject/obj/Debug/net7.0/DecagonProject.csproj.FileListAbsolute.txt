@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\bin\Debug\net7.0\DecagonProject.exe
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\bin\Debug\net7.0\DecagonProject.deps.json
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\bin\Debug\net7.0\DecagonProject.runtimeconfig.json
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\bin\Debug\net7.0\DecagonProject.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\bin\Debug\net7.0\DecagonProject.pdb
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\refint\DecagonProject.dll
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.pdb
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\DecagonProject.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\My Local Repo\My-Algorithm-Repo\DecagonProject\obj\Debug\net7.0\ref\DecagonProject.dll
