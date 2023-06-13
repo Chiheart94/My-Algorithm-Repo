@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,8 +20,21 @@ namespace BankApplication
             {
                 Console.WriteLine("Account does not exist.");
             }
-            accountNumber.Balance += amount;
-            Console.WriteLine("Deposit Successful!");
+            else
+            { 
+                accountNumber.Balance += amount;
+                Console.WriteLine("Deposit Successful!");
+            }
+           
+
+            //account.Transaction.Add(new Transaction
+            //{
+            //    Date = DateTime.Now,
+            //    Description = "Deposit",
+            //    Amount = amount,
+            //    Balance = account.Balance
+            //});
         }
+
     }
 }

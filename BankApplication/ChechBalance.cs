@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace BankApplication
 {
-    internal class Withdrawal
+    internal class ChechBalance
     {
-        public void withdrawal()
+        public void CheckBal()
         {
-            Console.WriteLine("Enter the amount: ");
-            decimal amount = Convert.ToDecimal(Console.ReadLine());
+             
             Console.WriteLine("Enter Account Number: ");
             var accNo = Console.ReadLine();
             var accountNumber = CreateAccount.accounts.FirstOrDefault(x => x.AccountNumber == accNo);
@@ -19,13 +18,11 @@ namespace BankApplication
             {
                 Console.WriteLine("Account does not exist.");
             }
-
             else
             {
-                accountNumber.Balance -= amount;
-                Console.WriteLine("Withdrawal Successful!");
+                Console.WriteLine($"Your account Balance is {accountNumber.Balance}");
             }
-           
+
         }
     }
 }

@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
+    <Compile Include="ChechBalance.cs" />
     <Compile Include="CreateAccount.cs" />
     <Compile Include="DashBoard.cs" />
     <Compile Include="Deposit.cs" />

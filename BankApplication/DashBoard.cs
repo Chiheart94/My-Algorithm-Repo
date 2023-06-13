@@ -12,12 +12,16 @@ namespace BankApplication
         private readonly Deposit deposits;
         private readonly Account account;
         private readonly Withdrawal withdraw;
+        private readonly ChechBalance balance;
+        private readonly Transfer transfer;
         public DashBoard()
         {
             createAccount = new CreateAccount();
             deposits = new Deposit();
             account = new Account();
             withdraw = new Withdrawal();
+            balance = new ChechBalance();
+            transfer = new Transfer();
         }
         public void dashBoard()
         {
@@ -50,23 +54,29 @@ namespace BankApplication
                 case "3":
                     Console.WriteLine("withdrawal");
                     withdraw.withdrawal();
+                    dashBoard();
                     break;
                 case "4":
                     Console.WriteLine("Transfer");
-                   // var transfer = new BankTransfer();
-                   // transfer.Transfer();
+                    transfer.TransferMoney();
+                    dashBoard();
                     break;
                 case "5":
+                    Console.WriteLine("Check Balance");
+                    balance.CheckBal();
+                    dashBoard();
+                    break;
+                case "6":
                     Console.WriteLine("Account Details");
                    // var acctDetails = new DetailsTable();
                   //  acctDetails.PrintAccountDetails();
                     break;
-                case "6":
+                case "7":
                     Console.WriteLine("Statement of account");
                    // var statement = new StatementOfAccount();
                    // statement.PrintStatement();
                     break;
-                case "7":
+                case "8":
                     Console.WriteLine("Logout");
                     var logout = new UserLogout();
                     logout.Logout();                   
