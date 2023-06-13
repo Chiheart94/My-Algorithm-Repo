@@ -32,11 +32,12 @@ namespace BankApplication
             Console.WriteLine("2. Deposit");
             Console.WriteLine("3. Withdrawal");
             Console.WriteLine("4. Transfer");
-            Console.WriteLine("5. Account Details");
-            Console.WriteLine("6. Statement of account");
-            Console.WriteLine("7. Logout");
+            Console.WriteLine("5. Check Balance");
+            Console.WriteLine("6. Account Details");
+            Console.WriteLine("7. Statement of account");
+            Console.WriteLine("8. Logout");
 
-            Console.WriteLine("Enter your choice (1 - 7)");
+            Console.WriteLine("Enter your choice (1 - 8)");
             string choice = Console.ReadLine();
 
             switch (choice)
