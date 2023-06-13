@@ -10,6 +10,9 @@ namespace BankApplication
     {
         static void Main(string[] args)
         {
+            Registration registration = new Registration();
+            registration.signUp();
+
         }
     }
 }
