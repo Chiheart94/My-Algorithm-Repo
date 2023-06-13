@@ -8,8 +8,6 @@ namespace BankApplication
 {
     internal class UserLogin
     {
-        //string LoginEmail;
-        //string Password;
 
         public void AcceptedLogin()
         {
