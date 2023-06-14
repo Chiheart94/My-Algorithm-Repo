@@ -25,7 +25,14 @@ namespace BankApplication
                 accountNumber.Balance -= amount;
                 Console.WriteLine("Withdrawal Successful!");
             }
-           
+
+            Transaction.AllTransactions.Add(new Transaction
+            {
+                Date = DateTime.Now,
+                Description = "Withdraw",
+                Amount = amount,
+                Balance = accountNumber.Balance
+            });
         }
     }
 }

@@ -44,20 +44,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
-    <Compile Include="ChechBalance.cs" />
+    <Compile Include="AccountDetails.cs" />
+    <Compile Include="Operations\CheckBalance.cs" />
     <Compile Include="CreateAccount.cs" />
     <Compile Include="DashBoard.cs" />
-    <Compile Include="Deposit.cs" />
+    <Compile Include="Operations\Deposit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Registration.cs" />
     <Compile Include="Transaction.cs" />
-    <Compile Include="Transfer.cs" />
+    <Compile Include="Operations\Transfer.cs" />
     <Compile Include="UserAccount.cs" />
     <Compile Include="UserLogin.cs" />
     <Compile Include="UserLogout.cs" />
     <Compile Include="Validation.cs" />
-    <Compile Include="Withdrawal.cs" />
+    <Compile Include="Operations\Withdrawal.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

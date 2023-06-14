@@ -12,20 +12,22 @@ namespace BankApplication
         private readonly Deposit deposits;
         private readonly Account account;
         private readonly Withdrawal withdraw;
-        private readonly ChechBalance balance;
+        private readonly CheckBalance balance;
         private readonly Transfer transfer;
+       // private readonly AccountDetails details;
         public DashBoard()
         {
             createAccount = new CreateAccount();
             deposits = new Deposit();
             account = new Account();
             withdraw = new Withdrawal();
-            balance = new ChechBalance();
+            balance = new CheckBalance();
             transfer = new Transfer();
+           // details = new AccountDetails();
         }
         public void dashBoard()
         {
-            Console.WriteLine("Welcome");
+            Console.WriteLine("Welcome To Kpalasa Microfinance Bank");
             Console.WriteLine("Below is the bank menu");
             Console.WriteLine("Please Make A Choice");
             Console.WriteLine("1. Create Account");
@@ -69,8 +71,9 @@ namespace BankApplication
                     break;
                 case "6":
                     Console.WriteLine("Account Details");
-                   // var acctDetails = new DetailsTable();
-                  //  acctDetails.PrintAccountDetails();
+                  //  details.DetailsTable();
+                    dashBoard();
+                   
                     break;
                 case "7":
                     Console.WriteLine("Statement of account");

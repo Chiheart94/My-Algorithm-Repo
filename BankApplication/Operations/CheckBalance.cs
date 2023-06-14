@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BankApplication
 {
-    internal class ChechBalance
+    internal class CheckBalance
     {
         public void CheckBal()
         {

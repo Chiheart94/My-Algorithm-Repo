@@ -25,15 +25,15 @@ namespace BankApplication
                 accountNumber.Balance += amount;
                 Console.WriteLine("Deposit Successful!");
             }
-           
 
-            //account.Transaction.Add(new Transaction
-            //{
-            //    Date = DateTime.Now,
-            //    Description = "Deposit",
-            //    Amount = amount,
-            //    Balance = account.Balance
-            //});
+
+            Transaction.AllTransactions.Add(new Transaction
+            {
+               Date = DateTime.Now,
+                Description = "Deposit",
+               Amount = amount,
+               Balance = accountNumber.Balance
+            });
         }
 
     }

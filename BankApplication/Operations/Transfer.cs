@@ -31,26 +31,23 @@ namespace BankApplication
                 receiver.Balance += amount;
                 Console.WriteLine("Transfer Successful");
             }
-        }
+            Transaction.AllTransactions.Add(new Transaction
+            {
+                Date = DateTime.Now,
+                Description = $"Transfer To {ReceiverAccNo}",
+                Amount = amount,
+                Balance = sender.Balance
+            });
 
-        //    account.Transaction.Add(new Transaction
-        //    {
-        //        Date = DateTime.Now,
-        //        Description = $"Transfer To {destinationAccount.AccountNumber} ",
-        //        Amount = amount,
-        //        Balance = account.Balance
-        //    });
-
-        //    destinationAccount.Transaction.Add(new Transaction
-        //    {
-        //        Date = DateTime.Now,
-        //        Description = $"Transfer from {account.AccountNumber} ",
-        //        Amount = amount,
-        //        Balance = account.Balance
-        //    });
-        //}  
-
-        }
+            Transaction.AllTransactions.Add(new Transaction
+            {
+                Date = DateTime.Now,
+                Description = $"Transfer From {SenderAccNo}",
+                Amount = amount,
+                Balance = receiver.Balance
+            });
+        }       
+      }
     }
 
 
