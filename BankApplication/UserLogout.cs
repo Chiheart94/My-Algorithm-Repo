@@ -11,7 +11,7 @@ namespace BankApplication
         public void Logout()
         {
             Console.WriteLine("Logged out successfully.");
-            Console.WriteLine("Press any key to exit the console...");           
+            Environment.Exit(0);        
         }
     }
 }
